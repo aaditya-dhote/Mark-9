@@ -1,0 +1,37 @@
+.App {
+  font-family: Changa;
+  text-align: center;
+  background-color: yellow;
+}
+
+button {
+  width: 20vw;
+  margin-left: 4rem;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  background-color: yellow;
+  border: 2px double;
+}
+
+hr {
+  margin: 2rem;
+}
+
+.optionOne {
+  border: white;
+  border-style: solid;
+
+  max-width: 20vw;
+  border-radius: 1rem;
+  margin: auto;
+  margin-bottom: 3rem;
+}
+.optionTwo {
+  border: white;
+  border-style: solid;
+
+  max-width: 20vw;
+  border-radius: 1rem;
+  margin: auto;
+  margin-bottom: 3rem;
+}
